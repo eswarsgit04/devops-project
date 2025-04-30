@@ -10,10 +10,10 @@ A web-based Incident Management System built with **Flask**, **SQLite**, and **B
 ![Docker Commands](Screenshots/1_Docker_cmds.png)
 
 ### 2. Running Docker Container  
-![Docker Container](screenshots/2_Docker_container.png)
+![Docker Container](Screenshots/2_Docker_container.png)
 
 ### 3. Docker Image  
-![Docker Image](screenshots/3_Docker_image.png)
+![Docker Image](Screenshots/3_Docker_image.png)
 
 ---
 
@@ -33,21 +33,21 @@ A web-based Incident Management System built with **Flask**, **SQLite**, and **B
 ## 🖥️ App Screenshots
 
 ### Main Page  
-![Main Page](screenshots/4_main_page.png)
+![Main Page](Screenshots/4_main_page.png)
 
 ### Incident Detail View  
-![View Page](screenshots/5_view_page.png)
+![View Page](Screenshots/5_view_page.png)
 
 ### Export to CSV  
-![Export CSV](screenshots/6_Export_CSV_Faclity.png)
+![Export CSV](Screenshots/6_Export_CSV_Faclity.png)
 
 
 
 ### SMTP Services  
-![SMTP Services](screenshots/7_SMTP_Services.png)
+![SMTP Services](Screenshots/7_SMTP_Services.png)
 
 ### SQLite3 Database  
-![SQLite3](screenshots/8_SQLite3.png)
+![SQLite3](Screenshots/8_SQLite3.png)
 
 ---
 
