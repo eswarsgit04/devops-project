@@ -4,19 +4,6 @@ A web-based Incident Management System built with **Flask**, **SQLite**, and **B
 
 ---
 
-## 🐳 Docker Command & Usage Screens
-
-### 1. Docker Commands  
-![Docker Commands](Screenshots/1_Docker_cmds.png)
-
-### 2. Running Docker Container  
-![Docker Container](Screenshots/2_Docker_container.png)
-
-### 3. Docker Image  
-![Docker Image](Screenshots/3_Docker_image.png)
-
----
-
 ## 📦 Features
 
 - Create, view, edit, and delete incidents
@@ -29,6 +16,18 @@ A web-based Incident Management System built with **Flask**, **SQLite**, and **B
 - SQLITE3 Database for storing incidents
 
 ---
+
+## 🐳 Docker Command & Usage Screens
+
+### 1. Docker Commands  
+![Docker Commands](Screenshots/1_Docker_cmds.png)
+
+### 2. Running Docker Container  
+![Docker Container](Screenshots/2_Docker_container.png)
+
+### 3. Docker Image  
+![Docker Image](Screenshots/3_Docker_image.png)
+
 
 ## 🖥️ App Screenshots
 
