@@ -7,7 +7,7 @@ A web-based Incident Management System built with **Flask**, **SQLite**, and **B
 ## 🐳 Docker Command & Usage Screens
 
 ### 1. Docker Commands  
-![Docker Commands](screenshots/1_Docker_cmds.png)
+![Docker Commands](Screenshots/1_Docker_cmds.png)
 
 ### 2. Running Docker Container  
 ![Docker Container](screenshots/2_Docker_container.png)
